@@ -1,6 +1,4 @@
-import { FaHome } from "react-icons/fa";
 import { BentoGrid, BentoGridItem } from "./ui/BentoGrid";
-import { title } from "process";
 import { gridItems } from "@/data";
 
 const Grid = () => {
